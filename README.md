@@ -1,2 +1,3 @@
 # Amiga-C-Examples
-Collection of Amiga C source code, compile and debug with the Bartman-Abyss VSCode extension.
+A collection of Amiga C source code, compile and debug with the Bartman-Abyss VSCode extension.
+The collection includes C conversions of the AmigaVikke examples along with several other examples.
